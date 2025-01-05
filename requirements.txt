@@ -1,0 +1,2 @@
+pip install pandas spacy scikit-learn torch torchvision matplotlib seaborn textblob
+python -m spacy download en_core_web_sm
